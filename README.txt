@@ -1,3 +1,6 @@
+RESPONSIVE SITE 
+
+
 =>At first install python and make Virtual-Environment within the project root directory
 =>then , enter " pip3 install -r requirements.txt " in commandprompt
 =>then make migrations with both commands one after another 
