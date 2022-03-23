@@ -7,8 +7,12 @@
 
 => after successful migration, runserver at command " python manage.py runserver " 
 
+=> And make changes in host email and password in settings.py
+
 
 Main-Moto:
 
 A registered user will get Welcome Email.
+
+------------------------------------------------------thank you------------------------------------------------------
 
